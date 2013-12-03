@@ -20,15 +20,15 @@
 	<!-- ============================================================================================ -->
 	<!--      I N I T I A L I Z A T I O N                                                             -->
 	<!-- ============================================================================================ -->
-	<property name="basedir" value="${project::get-base-directory()}"/>
-	<property name="project.name" value="Apache.Qpid"/>
-	<property name="project.group" value="org.apache.qpid"/>
-	<property name="project.version"  value="0.27.0" unless="${property::exists('project.version')}"/>
-	<property name="project.release.type" value="RELEASE" unless="${property::exists('project.release.type')}" />
+	<property name="basedir"                   value="${project::get-base-directory()}"/>
+	<property name="project.name"              value="Apache.Qpid"/>
+	<property name="project.group"             value="org.apache.qpid"/>
+	<property name="project.version"           value="0.27.0.16034" unless="${property::exists('project.version')}"/>
+	<property name="project.release.type"      value="RELEASE" unless="${property::exists('project.release.type')}" />
 	<property name="project.short_description" value="Apache Qpid/Proton Messaging Library"/>
-	<property name="project.description" value="Apache Qpid/Proton Messaging Library"/>
-	<property name="compile.skip" value="true"/>
-	<property name="build.framework.strings" value="net-2.0" />
+	<property name="project.description"       value="Apache Qpid/Proton Messaging Library"/>
+	<property name="compile.skip"              value="true"/>
+	<property name="build.framework.strings"   value="net-4.0" />
 
 	<!-- Repository organized as: organization/module/version/plaform/artifact, platform might be something like 'all' or 'net-2.0/release' -->
 	<target name="vendor-init" description="Initializes Vendor library from local repository.">
