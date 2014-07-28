@@ -1,0 +1,11 @@
+diff --git a/proton-c/include/proton/types.h b/proton-c/include/proton/types.h
+index 4182f25..d26d6a2 100644
+--- a/proton-c/include/proton/types.h
++++ b/proton-c/include/proton/types.h
+@@ -23,6 +23,7 @@
+  */
+
+ #include <proton/import_export.h>
++#include <stddef.h>
+ #include <sys/types.h>
+ #include <proton/type_compat.h>

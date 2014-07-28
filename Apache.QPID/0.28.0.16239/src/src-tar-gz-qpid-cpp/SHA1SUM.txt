@@ -1,0 +1,12 @@
+b7e50babe6bc82cecf323f76a20e77994a870fe0  qpid-wcf-0.28.zip
+0a075b662ed2fee5c02c778269ce3938c3d51211  qpid-0.28.tar.gz
+ef82f25e8eae666b5bce8930721557063f5d330f  qpid-amqp-1-0-client-jms-0.28.tar.gz
+b0e073f58113aa71ff21d3e587887e1336f4c6f1  qpid-cpp-0.28.tar.gz
+2ec8ae529e2fd8ccc203dcdd156a32e5110e58be  qpid-java-0.28.tar.gz
+44c84efa99ffe28d1f01e753f6ee624989538879  qpid-java-amqp-1-0-client-jms-0.28.tar.gz
+401a6a369e6bd999ff59d9a86882addd95bf99dc  qpid-java-broker-0.28.tar.gz
+747f895f87ccd65e262b558d1c2c6f976506526d  qpid-java-client-0.28.tar.gz
+df3f905e57703b94e7ace6cc385ee4fd4b4d64fe  qpid-python-0.28.tar.gz
+fcb64cccd055540b2f1674aaccd376ccdd13cd3d  qpid-qmf-0.28.tar.gz
+d84f684623818a7ed779f06d256766a0fd19c8cf  qpid-tools-0.28.tar.gz
+9cdeb364c83fdc6ce2410f54044672c175583f29  qpid-0.28.svnversion
